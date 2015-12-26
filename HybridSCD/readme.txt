@@ -1,0 +1,5 @@
+SCD columns
+
+ADDRESS -- SCD2
+PHONE -- SCD1
+LAST_TRANS1 -- SCD3
